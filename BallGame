@@ -83,4 +83,12 @@ Olubiyi OLuwatofunmi
     The moving ball should bounce off the screen when if it hits the screen
     The moving ball should change direction when it hits an obstacle larger than 3pixel
     The moving ball should keep same direction if hits an obstacle smaller than 3pixel
-    
+
+========
+Zachary Hower
+  Needs to be able to move and bounce the ball on its own.
+  Needs to be able to have the ball react to objects or walls inside the application.
+  Needs to be able to handle new object added in real time.
+  Needs to be able to recognize difference between object greater or less than 3 Pixels.
+  Needs to accept mouse input from user.
+  Needs to recognize the screen edge as walls inside the application.
